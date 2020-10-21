@@ -5,5 +5,16 @@ img {
   padding: 5px;
 }
 html{
-  background-color: #c2cbe9;
+  background-color: #b291cdf3;
+  border: 3px solid #363664;
+}
+h1{
+  color:#6a4b85;
+  font-size: 30pt;
+  font-style: oblique;
+}
+h2{
+  color:#47447a;
+  font-size: 20pt;
+  font-style: italic;
 }
